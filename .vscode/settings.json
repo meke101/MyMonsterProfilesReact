@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.fixAll.eslint": "explicit"
+  },
+  "javascript.format.enable": false, // Keep VS Code's built-in formatter disabled for JavaScript
+  "typescript.format.enable": false  // Keep disabled for TypeScript if you're using it
+}
